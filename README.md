@@ -1,3 +1,3 @@
-App version 1.1.1
+App version 1.2
 
 Author: Cristhian Won
